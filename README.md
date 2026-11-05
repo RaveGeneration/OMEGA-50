@@ -23,6 +23,9 @@ VST3 and AU, for Windows and macOS. Available at
 - **Played by your controller.** Velocity, aftertouch, mod wheel and pitch bend, each with its depth
   on the panel, and the sustain pedal.
 - **Stereo chorus.** On or off with one click, with its own rate.
+- **Effects page.** One click swaps the bottom row for an EQ, a Multi-FX with 13 effects, a delay and a
+  reverb. Click a section's name to switch it off and on; the Multi-FX and the delay follow your song's
+  tempo if you like.
 
 <img width="1944" height="314" alt="OMEGA-50 102 screen 150pr fxpanelfoldoutonly" src="https://github.com/user-attachments/assets/dde7e9f3-ea1a-42cb-9783-16d26049491f" />
 
