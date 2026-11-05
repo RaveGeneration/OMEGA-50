@@ -34,7 +34,7 @@ In this repository:
 | File | What it is |
 |---|---|
 | [OMEGA-50UserManual.pdf](OMEGA-50UserManual.pdf) | The user manual |
-| [OMEGA-50-Presets.zip](OMEGA-50-Presets.zip) | 152 presets: factory banks A and B with 64 tones each, and 24 by The Viper |
+| [OMEGA-50-Presets.zip](OMEGA-50-Presets.zip) | 162 presets: factory banks A and B with 64 tones each, 24 by The Viper and 10 by DJ Isaac |
 
 ## The editor
 
