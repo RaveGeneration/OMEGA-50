@@ -2,7 +2,7 @@
 
 Six-voice polysynth plugin, with a free editor for the hardware it is modeled on.
 
-<img width="1944" height="1271" alt="OMEGA-50 101 screen 150pr" src="https://github.com/user-attachments/assets/56372bbf-6238-4d91-9537-119e96bccfad" />
+<img width="1944" height="1271" alt="OMEGA-50 102 screen 150pr" src="https://github.com/user-attachments/assets/b32a7d27-83e2-474b-922f-491b1ea9ceb2" />
 
 OMEGA-50 is a six-voice polyphonic synthesizer modeled on the Roland MKS-50, the rack version of the
 Alpha Juno: pulse, sawtooth, sub-oscillator and noise into a high-pass and a resonant low-pass filter,
@@ -23,6 +23,8 @@ VST3 and AU, for Windows and macOS. Available at
 - **Played by your controller.** Velocity, aftertouch, mod wheel and pitch bend, each with its depth
   on the panel, and the sustain pedal.
 - **Stereo chorus.** On or off with one click, with its own rate.
+
+<img width="1944" height="314" alt="OMEGA-50 102 screen 150pr fxpanelfoldoutonly" src="https://github.com/user-attachments/assets/dde7e9f3-ea1a-42cb-9783-16d26049491f" />
 
 In this repository:
 
