@@ -27,7 +27,7 @@ VST3 and AU, for Windows and macOS. Available at
   reverb. Click a section's name to switch it off and on; the Multi-FX and the delay follow your song's
   tempo if you like.
 
-<img width="1944" height="314" alt="OMEGA-50 102 screen 150pr fxpanelfoldoutonly" src="https://github.com/user-attachments/assets/dde7e9f3-ea1a-42cb-9783-16d26049491f" />
+<img width="1944" height="313" alt="OMEGA-50 105 screen 150pr fxpanelfoldoutonly" src="https://github.com/user-attachments/assets/bb60b9da-583c-43f0-82ff-17b45d90438d" />
 
 In this repository:
 
